@@ -1,0 +1,22 @@
+h1 {
+  font-family:"gotham", sans-serif;
+  font-weight: bold
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.general {
+  border: 2px grey;
+  padding: 10px;
+  margin: 20px;
+  font-family: "helvetica", sans-serif;
+}
+
+blockquote {
+  margin-left: 20px;
+  margin-right: 20px;
+}
